@@ -1,7 +1,7 @@
 # england-covid-cases-and-admissions
 
-- [ ] Plot of COVID cases and hospital admissions in England
-- [x] Plot of COVID cases and hospital admissions in England alongside COVID variant presence
+- [x] Plot of COVID cases and hospital admissions in England
+- [ ] Plot of COVID cases and hospital admissions in England alongside COVID variant presence
 
 ![](https://raw.githubusercontent.com/lmmx/england-covid-cases-and-admissions/master/rolling_cases_abs_and_admissions.png)
 ![](https://raw.githubusercontent.com/lmmx/england-covid-cases-and-admissions/master/rolling_cases_percentage_and_admissions.png)
