@@ -3,8 +3,8 @@
 - [x] Plot of COVID cases and hospital admissions in England
 - [ ] Plot of COVID cases and hospital admissions in England alongside COVID variant presence
 
-![](https://raw.githubusercontent.com/lmmx/england-covid-cases-and-admissions/master/rolling_cases_abs_and_admissions.png)
-![](https://raw.githubusercontent.com/lmmx/england-covid-cases-and-admissions/master/rolling_cases_percentage_and_admissions.png)
+![](https://raw.githubusercontent.com/lmmx/england-covid-cases-and-admissions/master/plots/rolling_cases_abs_and_admissions.png)
+![](https://raw.githubusercontent.com/lmmx/england-covid-cases-and-admissions/master/plots/rolling_cases_percentage_and_admissions.png)
 
 - `data/ukhsa_national_covid_case_rates_and_admissions.csv` came from
   [source CSV](https://api.coronavirus.data.gov.uk/v2/data?areaType=nation&areaCode=E92000001&metric=newAdmissions&metric=newCasesBySpecimenDate&format=csv)
