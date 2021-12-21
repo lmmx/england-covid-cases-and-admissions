@@ -35,6 +35,6 @@ def main():
     plt.ylabel("Count")
     plt.legend()
     #plt.show()
-    plt.savefig("rolling_cases_abs_and_admissions.png")
+    plt.savefig("plots/rolling_cases_abs_and_admissions.png")
 
 main()

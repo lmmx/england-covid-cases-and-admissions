@@ -34,6 +34,6 @@ def main():
     plt.ylabel("% of historic peak")
     plt.legend()
     plt.show()
-    #plt.savefig("cases_and_admissions.png")
+    #plt.savefig("plots/cases_and_admissions.png")
 
 #main()
