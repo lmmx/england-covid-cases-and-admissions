@@ -13,7 +13,7 @@
 ![](https://raw.githubusercontent.com/lmmx/england-covid-cases-and-admissions/master/plots/rolling_cases_percentage_and_admissions_with_sgtf.png)
 ![](https://raw.githubusercontent.com/lmmx/england-covid-cases-and-admissions/master/plots/rolling_cases_percentage_and_admissions_omicron_vs_delta.png)
 ![](https://raw.githubusercontent.com/lmmx/england-covid-cases-and-admissions/master/plots/rolling_cases_percentage_and_admissions_omicron_vs_delta_6_months.png)
-![](https://raw.githubusercontent.com/lmmx/england-covid-cases-and-admissions/master/plots/rolling_cases_percentage_and_admissions_omicron_vs_delta_from_dec_2021.png)
+![](https://raw.githubusercontent.com/lmmx/england-covid-cases-and-admissions/master/plots/rolling_cases_percentage_deaths_admissions_omicron_vs_delta_from_dec_2021.png)
 
 - `data/ukhsa_national_covid_case_rates_and_admissions.csv` came from
   [source CSV](https://api.coronavirus.data.gov.uk/v2/data?areaType=nation&areaCode=E92000001&metric=newAdmissions&metric=newCasesBySpecimenDate&format=csv)
